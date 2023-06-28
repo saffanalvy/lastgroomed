@@ -1,0 +1,62 @@
+name: lastgroomed
+description: When did you last groomed yourself? Keep a track of your last
+  Haircut, Shave, Nails, Armpit & Pubes date.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^1.0.3
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_calendar_carousel: ^2.4.2
+  flutter_native_splash: ^2.3.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  intl: ^0.18.1
+  provider: ^6.0.5
+  shared_preferences: ^2.1.2
+  top_snackbar_flutter: ^3.0.0+1
+  url_launcher: ^6.1.11
+
+#Run: flutter clean && flutter pub get && flutter pub run flutter_native_splash:create
+flutter_native_splash:
+  color: "#F3F3C7"
+  color_dark: "#48411F"
+  image: "assets/images/splash.png"
+  android_12:
+    image: "assets/images/splash.png"
+  ios: false
+  web: false
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+#Run: flutter clean && flutter pub get && flutter pub run flutter_launcher_icons:main
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icon.png"
+  adaptive_icon_background: "#FEC107"
+  adaptive_icon_foreground: "assets/images/icon_foreground.png"
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Last Groomed
+      fonts:
+        - asset: assets/fonts/LastGroomedRegular.otf
