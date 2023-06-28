@@ -1,4 +1,4 @@
-Privacy Policy
+# Privacy Policy
 
 Last Groomed app was built by Saffan Technology as an Open Source app. This SERVICE is provided by Saffan Technology at no cost and is intended for use as is.
 
@@ -12,39 +12,39 @@ Information Collection and Use
 
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information (such as your gender). The information that we request will be retained locally and used only by the user as described in this privacy policy.
 
-Log Data
+#### Log Data
 
 We want to inform you that whenever you use our Service, we do not collect any kind of log data from the user's device. We only take gender, theme preference and and the date of your use to save an event of the Service locally inside the device only.
 
-Service Providers
+#### Service Providers
 
 We may employ third-party companies and individuals due to the following reasons:
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.
+* We want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Security
+#### Security
 
 We value your trust in providing us your Personal Information, however all the provided data by the user is stored locally inside the user's device and user has full control of their data. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Links to Other Sites
+#### Links to Other Sites
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-Children’s Privacy
+#### Children’s Privacy
 
 We do not knowingly collect personally identifiable information from children. We encourage all children to never submit any personally identifiable information through the Application and/or Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to us through the Application and/or Services, please remove them  or uninstall and then reinstall the app for a hard reset and a fresh start.
 
-Changes to This Privacy Policy
+#### Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 This policy is effective as of 2023-06-23
 
-Contact Us
+#### Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at saffantech@gmail.com.
 
