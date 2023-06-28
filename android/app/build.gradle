@@ -64,7 +64,6 @@ android {
     }
     
     //!COMMENT THIS SECTION OUT FOR RELEASE MODE
-    
     buildTypes {
         release {
             // TODO: Add your own signing config for the release build.
