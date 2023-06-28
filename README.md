@@ -5,7 +5,7 @@ When did you last groomed yourself? Keep a track of your last Haircut, Shave, Na
 Last Groomed is an open source software made in Flutter framework by Saffan Technology.
 
 Currently, Last Groomed is published as an Android app on Google Play Store.
-<br/>
+<br/><br/>
 <a href="https://www.buymeacoffee.com/saffanalvy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Description
@@ -60,13 +60,13 @@ Last Groomed app is optimized using Dart DevTools and Inspect Widgets, CPU, Perf
 
 All the praises due to Allah, the most gracious, the most merciful. Shoutout to all the following content creators for providing their passion and hard work for free online so that awesome projects like Last Groomed are possible to build with elegance.
 
-[Named Link] (https://www.flaticon.com/authors/freepik "Freepik") 
-[Named Link] (https://www.flaticon.com/authors/good-ware "Good Ware")
-[Named Link] (https://freeicons.io/profile/75801 "Hilmy Abiyyu Asad")
-[Named Link] (https://www.flaticon.com/authors/irfansusanto20 "Irfansusanto20")
-[Named Link] (https://freeicons.io/profile/433683 "Manshagraphics")
-[Named Link] (https://freeicons.io/profile/112433 "Manthana Chaiwong")
-[Named Link] (https://freeicons.io/profile/101755 "Notachai Plukjaisuea")
-[Named Link] (https://www.flaticon.com/authors/pixel-perfect "Pixel perfect")
-[Named Link] (https://www.flaticon.com/authors/smalllikeart "Smalllikeart")
-[Named Link] (https://www.flaticon.com/authors/surang "Surang")
+<a href="https://www.flaticon.com/authors/freepik">Freepik</a>
+<a href="https://www.flaticon.com/authors/good-ware">Good Ware"</a>
+<a href="https://freeicons.io/profile/75801">Hilmy Abiyyu Asad"</a>
+<a href="https://www.flaticon.com/authors/irfansusanto20">Irfansusanto20"</a>
+<a href="https://freeicons.io/profile/433683">Manshagraphics"</a>
+<a href="https://freeicons.io/profile/112433">Manthana Chaiwong"</a>
+<a href="https://freeicons.io/profile/101755">Notachai Plukjaisuea"</a>
+<a href="https://www.flaticon.com/authors/pixel-perfect">Pixel perfect"</a>
+<a href="https://www.flaticon.com/authors/smalllikeart">Smalllikeart"</a>
+<a href="https://www.flaticon.com/authors/surang">Surang"</a>
