@@ -64,7 +64,7 @@ class MyApp extends StatelessWidget {
           fontFamily: kFontFamily,
           appBarTheme: AppBarTheme(
             //Setting up App Bar Theme color based on Gender
-            color: (gender == kFemaleText) ? constFemaleColor : constMaleColor,
+            backgroundColor: (gender == kFemaleText) ? constFemaleColor : constMaleColor,
           ),
           colorScheme: ColorScheme.fromSeed(
             //Setting up Primary color based on Light/Dark mode
